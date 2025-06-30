@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>Ofertas do Dia • Entre no Canal</title>
+  <style>
+    body {
+      margin:0;
+      padding:0;
+      font-family: Arial, sans-serif;
+      background: #f2f6fa;
+      color: #333;
+      display:flex;
+      justify-content:center;
+      align-items:center;
+      min-height:100vh;
+    }
+    .container {
+      text-align:center;
+      background:#fff;
+      padding:40px 20px;
+      border-radius:12px;
+      box-shadow:0 4px 15px rgba(0,0,0,0.1);
+      max-width:400px;
+      width:90%;
+    }
+    .logo {
+      width:120px;
+      margin-bottom:20px;
+    }
+    h1 {
+      font-size:22px;
+      margin-bottom:10px;
+    }
+    p {
+      font-size:16px;
+      margin-bottom:25px;
+      line-height:1.4;
+    }
+    .btn {
+      display:inline-block;
+      background:#009efd;
+      color:#fff;
+      text-decoration:none;
+      padding:14px 28px;
+      border-radius:6px;
+      font-size:17px;
+      font-weight:bold;
+      transition:background .3s;
+    }
+    .btn:hover {
+      background:#0084d1;
+    }
+    footer {
+      margin-top:30px;
+      font-size:12px;
+      color:#777;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <img src="logo.png" alt="Ofertas do Dia" class="logo"/>
+    <h1>Receba as Melhores Ofertas de Eletrônicos no WhatsApp!</h1>
+    <p>Todos os dias selecionamos promoções reais de celulares, fones, smartwatches e muito mais.<br/>Entre no canal e aproveite gratuitamente!</p>
+    <a class="btn" href="https://whatsapp.com/channel/0029Vb6EM2l1XqufEWV9Xy2B" target="_blank">ENTRAR NO CANAL</a>
+    <footer>🔒 Privacidade garantida – sem spam 🛡️</footer>
+  </div>
+</body>
+</html>
